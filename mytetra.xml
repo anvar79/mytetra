@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mytetradoc>
+<root>
+ <format version="1" subversion="2"/>
+ <content>
+  <node crypt="" id="1300000000aaaaaaaaa1" name="Rename me">
+   <recordtable>
+    <record id="1300000000aaaaaaaaa3" name="Welcome to MyTetra!" author="" url="" tags="MyTetra, Qt" ctime="20081210124656" dir="1300000000aaaaaaaaa2" file="text.html"/>
+    <record id="1592369515xgjejdur55" name="Интересные сайты" author="" url="" tags="" ctime="20200617095155" dir="15923695150aenw59gnu" file="text.html"/>
+   </recordtable>
+  </node>
+  <node crypt="" id="1592287398st74zdks61" name="SANTEX KOTEL">
+   <recordtable>
+    <record id="1592293372ge36x71019" name="Слоган" author="" url="" tags="" ctime="20200616124252" dir="1592293372saq5pg59e4" file="text.html"/>
+    <record id="15923028558inwearml9" name="ПЕРЕВОД ММ В ДЮЙМЫ (ДЕСЯТИЧНЫЕ И ДРОБНЫЕ)" author="" url="https://www.sportek.in.ua/blogs/stati/perevod-mm-v-dyuymy" tags="" ctime="20200616152055" dir="1592302855gp0cilqbmx" file="text.html"/>
+    <record id="15923063111b08kqe98l" name="Резьба UNC дюймовая американская" author="" url="https://stankiexpert.ru/tehnologii/rezba-unc.html" tags="" ctime="20200616161831" dir="1592306311eh5hlor1dh" file="text.html"/>
+    <record id="15923688190c2r7fcfws" name="Перевод единиц" author="" url="http://www.xiron.ru/content/view/9/26/" tags="" ctime="20200617094019" dir="159236881926148osi17" file="text.html"/>
+   </recordtable>
+   <node crypt="" id="1592287415ge9a9w0y9c" name="PHOTOSHOP">
+    <node crypt="" id="159228741525h2o2misk" name="PSD">
+     <recordtable>
+      <record id="1592287191dg0tt2n0rl" name="Текстуры" author="" url="" tags="" ctime="20200616110335" dir="1592287191kg76v91pj3" file="text.html">
+       <files>
+        <file id="1592287207w3rwysde9e" fileName="Фоны для фотошопа - Абстрактные эффекты.zip" type="file"/>
+        <file id="1592287218j1ha4nwm3f" fileName="Фоны для фотошопа - Градиентная абстракция.zip" type="file"/>
+        <file id="1592287224dgha8cy779" fileName="Фоны для фотошопа - Свежесть.zip" type="file"/>
+        <file id="1592287229bb2e05souv" fileName="Фоны для фотошопа - Энергия.zip" type="file"/>
+       </files>
+      </record>
+      <record id="1592287353zhw1jzxryo" name="Штамп и печаты" author="" url="" tags="" ctime="20200616110336" dir="1592287353248pt5y6jd" file="text.html">
+       <files>
+        <file id="1592287360k5e2yy1002" fileName="PSD исходник - Штампы и печати.zip" type="file"/>
+       </files>
+      </record>
+     </recordtable>
+    </node>
+   </node>
+   <node crypt="" id="1592288947ge6oss5mo5" name="Предложения">
+    <recordtable>
+     <record id="1592291910q5681xuu9q" name="IZOMARKET GROUP ChP Тепло изоляция" author="Sepa Akopyan" url="@akopyansepa" tags="Telegram" ctime="20200616121830" dir="1592291910rpwj7e2ozl" file="text.html">
+      <files>
+       <file id="1592292036zsrgd382zy" fileName="audio_2020-06-16_12-19-59.ogg" type="file"/>
+       <file id="15922920361dhlfiv7dx" fileName="audio_2020-06-16_12-20-03.ogg" type="file"/>
+       <file id="1592292058rj6z5o6uuk" fileName="photo_2020-06-16_12-19-48.jpg" type="file"/>
+       <file id="1592292058gbz4js3vcz" fileName="photo_2020-06-16_12-19-53.jpg" type="file"/>
+      </files>
+     </record>
+    </recordtable>
+   </node>
+  </node>
+  <node crypt="" id="1592369008bdy68sbuum" name="ACCESS BD">
+   <node crypt="" id="159236903978uasom2n2" name="SantexKotel">
+    <recordtable>
+     <record id="1592369069s5aylevyfq" name="База данных Santex Kotel" author="" url="" tags="" ctime="20200617094429" dir="1592369069ngpao5y084" file="text.html">
+      <files>
+       <file id="15923690886n1qavpgwf" fileName="SANTEXv0.10..accdb" type="file"/>
+      </files>
+     </record>
+    </recordtable>
+   </node>
+  </node>
+ </content>
+</root>
